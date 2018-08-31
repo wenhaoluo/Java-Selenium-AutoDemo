@@ -1,0 +1,19 @@
+2018-04-17 22:07:16,191 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-04-17 22:07:16,193 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-04-17 22:07:16,193 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-04-17 22:07:16,193 INFO  [Log] 启动chrome浏览器。 
+2018-04-17 22:07:20,346 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-04-17 22:07:20,347 INFO  [Log] 打开测试环境地址 
+2018-04-17 22:07:22,670 INFO  [Log] 点击元素： loginLink 
+2018-04-17 22:07:22,901 INFO  [Log] 点击元素： loginTypeByAccount 
+2018-04-17 22:07:23,785 INFO  [Log] 开始在 loginUsernameInputbox输入文本 
+2018-04-17 22:07:24,692 INFO  [Log] 开始在 loginPasswordInputbox输入文本 
+2018-04-17 22:07:24,929 INFO  [Log] 点击元素： loginSubmitBtn 
+2018-04-17 22:07:25,222 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-04-17 22:07:25,222 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-04-17 22:07:25,223 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-04-17 22:07:25,328 INFO  [Log] XXXXXXX            -E---N---D-          XXXXXXXXX 
+2018-04-17 22:07:25,328 INFO  [Log] X 
+2018-04-17 22:07:25,328 INFO  [Log] X 
+2018-04-17 22:07:25,328 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-04-17 22:07:25,328 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
